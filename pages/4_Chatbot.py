@@ -1,9 +1,9 @@
 #1. Uncoment the below to install the environmental dependencies
 
-! pip install streamlit 
-! pip install OpenAI
-! pip install langchain
-! pip install wikipedia
+#! pip install streamlit 
+#! pip install OpenAI
+#! pip install langchain
+#! pip install wikipedia
 
 
 #2. Set the value of the environment variable OPENAI_API_KEY to the your apikey
